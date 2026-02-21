@@ -1,0 +1,9 @@
+python-dotenv #what is this for? its a library that allows you to read environment variables from a .env file.
+# This is useful for keeping sensitive information like API keys and database URLs out of your codebase and instead storing them in a separate file that can be easily ignored by version control systems.
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pymongo
+flask
