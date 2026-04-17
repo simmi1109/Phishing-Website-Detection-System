@@ -34,7 +34,7 @@ setup(
     version='0.0.1', #this is the version of the package
     author='Symniya Vindo Krishna', #this is the author of the package
     author_email= 'symniya09@gmail.com',
-    description='A network security phishing detectionproject using machine learning and MLOps practices', #this is a short description of the package
+    description='A network security phishing detection project using machine learning and MLOps practices', #this is a short description of the package
     packages=find_packages(), #this will find all the packages in the project and include them in the installation
     install_requires=get_requirements() #this will install all the requirements that are needed to run the package
 )
